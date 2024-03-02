@@ -3,7 +3,7 @@
 
 ## Lectures
 
-- [First java program]()
+- [First java program](https://github.com/suman-saurabh-das/tutorial__dsa-java__kunal-kushwaha/tree/main/src/P01_Input_Output_Debugging_Datatypes)
 
 ## Credits
 List of contributors:
