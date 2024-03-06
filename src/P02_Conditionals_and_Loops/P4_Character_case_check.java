@@ -9,7 +9,7 @@ public class P4_Character_case_check {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a character : ");
         char ch = sc.next().trim().charAt(0);
-        if(ch >= 'a' && ch <='z') {
+        if (ch >= 'a' && ch <= 'z') {
             System.out.println("Lowercase");
         } else if (ch >= 'A' && ch <= 'Z') {
             System.out.println("Uppercase");
