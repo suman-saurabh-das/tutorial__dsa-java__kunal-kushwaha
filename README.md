@@ -7,6 +7,7 @@
 
 - [First java program, Input, Output, Debugging & DataTypes](https://github.com/suman-saurabh-das/tutorial__dsa-java__kunal-kushwaha/tree/main/src/P01_Input_Output_Debugging_Datatypes)
 - [Conditionals & Loops](https://github.com/suman-saurabh-das/tutorial__dsa-java__kunal-kushwaha/tree/main/src/P02_Conditionals_and_Loops)
+- [Switch statements & Nested case]()
 
 ## Credits
 List of contributors:
