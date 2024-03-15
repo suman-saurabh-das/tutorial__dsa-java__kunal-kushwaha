@@ -1,0 +1,14 @@
+Write Java programs for the following:
+
+01. Calculate sum of digits of a number, sum of n numbers, average of n numbers, power of a number, subtract the product and sum of digits of an integer, print fibonacci series, input a number and print all the factors of that number (use loops).
+02. Calculate electricity bill, batting average, discount of product, depreciation of value.
+03. Calculate CGPA and average marks.
+04. Calculate factorial of a number, HCF & LCM Of two numbers, compound interest.
+05. Check if a year is leap year or not, if a number is perfect number, if a number is palindrome or not.
+06. Reverse a string, find if a character is vowel or consonant.
+07. Take integer inputs till the user enters 0 and print the largest number from all, print the sum of all numbers. (HINT: while loop).
+08. Calculate Area Of Circle, Rectangle, Triangle, Isosceles Triangle, Equilateral Triangle, Parallelogram, Rhombus.
+09. Calculate Perimeter Of Circle, Rectangle, Equilateral Triangle, Parallelogram, Square, Rhombus.
+10. Calculate Volume Of Cone, Prism, Cylinder, Sphere, Pyramid, Curved Surface Area Of Cylinder, Total Surface Area Of Cube.
+11. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
+12. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
