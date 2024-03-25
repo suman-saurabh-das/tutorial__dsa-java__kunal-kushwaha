@@ -45,9 +45,9 @@ public class P5_Array_list {
 
 /*
     ArrayList - can contain variable number of elements.
-    It is a part of collections framework and is part of java.util package
-    It is just a class.
-    Size of an array list is fixed internally.
-    When the array list fills by some amount, then a new array list is created whose length is calculated internally and the values from the old list is copied to the new list and the old list gets deleted.
-    It has a time complexity : O(1) amortized
+    • It is a part of collections framework and is part of java.util package
+    • It is just a class.
+    • Size of an array list is fixed internally.
+    • When the array list fills by some amount, then a new array list is created whose length is calculated internally and the values from the old list is copied to the new list and the old list gets deleted.
+    • It has a time complexity : O(1) amortized.
 */

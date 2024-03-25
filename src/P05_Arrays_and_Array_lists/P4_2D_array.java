@@ -26,7 +26,8 @@ public class P4_2D_array {
             System.out.println();
         }
 
-        // Here we have to mention both row and column sizes (as we will be taking input from user so size must be known beforehand)
+        // Here we have to mention both row and column sizes
+        // (as we will be taking input from user so size must be known beforehand)
         int[][] arr3 = new int[3][3];
         // Taking input for 2D array
         System.out.print("Enter 9 elements in 2D array : ");
